@@ -126,7 +126,7 @@ class YubiKeyInfo : Exception
     private void setSerialNumber()
     {
         if (_yubiKey.SerialNumber != null){
-            _serialNumber = ((int)_yubiKey.SerialNumber).ToString();
+            _serialNumber = _yubiKey.SerialNumber;
         }
     }
 

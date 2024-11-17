@@ -13,9 +13,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-      <PackageReference Include="System.Diagnostics.EventLog" Version="6.0.0" />
-      <PackageReference Include="Yubico.Core" Version="1.5.1" />
-      <PackageReference Include="Yubico.YubiKey" Version="1.5.1" />
+    <PackageReference Include="System.Diagnostics.EventLog" Version="8.0.0" />
+    <PackageReference Include="Yubico.Core" Version="1.11.0" />
+    <PackageReference Include="Yubico.YubiKey" Version="1.11.0" />
   </ItemGroup>
 
 </Project>
