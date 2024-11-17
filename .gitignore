@@ -1,3 +1,8 @@
 .user
 .DS_Store
 .vs
+/yubico-lock-tool/bin/x64/Release/net6.0/win-x64
+/yubico-lock-tool/bin/x86/Debug/net6.0/win-x64
+/yubico-lock-tool/obj
+/yubico-log-tool/bin/x64/Debug/net6.0/win-x64
+/yubico-log-tool/obj
